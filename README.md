@@ -62,4 +62,3 @@ This repository contains solutions to 36 C programming loop exercises.
 
 
 
-Print the following series (Parallel loop) (A) 1 5 (B) 1 5 2 4 1 5 3 3 2 4 4 2 2 4 5 1 3 3 3 3
