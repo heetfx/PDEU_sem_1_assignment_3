@@ -60,14 +60,6 @@ This repository contains solutions to 36 C programming loop exercises.
 
 30. Find out all prime nos. between 1and 500.
 
-31. Find out summation of prime nos. between 1 & 500.
 
-32. Find out how many prime nos. are there between 1 and 500.
-
-33. Check whether a given no. is automorphic no. or not. Automorphic nos. are the nos. whose last digit(s) of square of any no=no itself. e.g. 5-25,6-36,25-625
-
-34. Print fibonacci series. 1,1,2,3,5,8,…upto n nos.
-
-35. Print the following series. (loop within loop) (A) 1 1 (B) 1 1 (C) 1 1 1 (D) 5 1 1 2 2 1 1 1 2 5 2 1 3 2 2 1 2 1 4 1 2 1 3 1 1 2 2 4 2 2 2 3 2 2 1 1 3 1 2 3 3 3 2 1 2 3 2 2 2 1 2 2 2
 
 Print the following series (Parallel loop) (A) 1 5 (B) 1 5 2 4 1 5 3 3 2 4 4 2 2 4 5 1 3 3 3 3
